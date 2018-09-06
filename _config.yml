@@ -3,7 +3,7 @@ title: Patrick McKenzie
 subtitle: plant genomics
 email: p.mckenzie@columbia.edu
 description: my personal website
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: /blog # the subpath of your site, e.g. /blog
 url: patrickmckenzie.org # the base hostname & protocol for your site
 author:
 street_address: 
