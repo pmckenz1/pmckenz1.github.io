@@ -1,8 +1,8 @@
 # site settings
 title: Patrick McKenzie
-subtitle: by HTML5 UP
+subtitle: plant genomics
 email: p.mckenzie@columbia.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: my personal website
 baseurl: # the subpath of your site, e.g. /blog
 url: patrickmckenzie.org # the base hostname & protocol for your site
 author:
