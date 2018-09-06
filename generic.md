@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Photos
+description: taken during grad school
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
