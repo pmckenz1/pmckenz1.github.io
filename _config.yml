@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monarda profile
+title: Monarda Taxonomy
 email: pmckenzie@fas.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a static website to host basic information about taxonomy and 
@@ -37,13 +37,12 @@ plugins:
 nav:
   - name: Home
     link: /
+  - name: About
+    link: /about/
   - name: Species
     link: /species/
-    subnav:
-      - name: Monarda fistulosa
-        link: /species/monarda_fistulosa/monarda_fistulosa
-      - name: Monarda didyma
-        link: /species/monarda_didyma/monarda_didyma
+  - name: Posts
+    link: /posts/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,14 +52,15 @@ nav:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - _site/
