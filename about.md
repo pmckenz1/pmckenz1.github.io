@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_sidebar
 title: About
 permalink: /about/
 ---
@@ -28,6 +28,6 @@ There are about 25-35 species of Monarda, but there is lots disagreement about w
 * McClintock and Epling 1942  
 * Turner 1994
 
-## Website information --
+## Website information
 
 Created by Patrick F. McKenzie using a modified version of Jekyll's "minima" theme, hosted using Github Pages. 

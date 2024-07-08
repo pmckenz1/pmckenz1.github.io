@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="content">
+          <aside class="sidebar">
+            <nav id="toc" class="toc"></nav>
+          </aside>
+          <div class="main-content">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <script>
+      // JavaScript to generate TOC
+      document.addEventListener("DOMContentLoaded", function() {
+        var toc = document.getElementById("toc");
+        if (toc) {
+          var content = document.querySelector(".main-content");
+          var headings = content.querySelectorAll("h1, h2, h3, h4, h5, h6");
+          if (headings.length > 0) {
+            var ul = document.createElement("ul");
+            headings.forEach(function(heading) {
+              // Create an ID for the heading if it doesn't have one
+              if (!heading.id) {
+                heading.id = heading.textContent.toLowerCase().replace(/\s+/g, '-');
+              }
+              var li = document.createElement("li");
+              var a = document.createElement("a");
+              a.href = "#" + heading.id;
+              a.textContent = heading.textContent;
+              li.appendChild(a);
+              ul.appendChild(li);
+            });
+            toc.appendChild(ul);
+          }
+        }
+      });
+    </script>
+
+  </body>
+
+</html>

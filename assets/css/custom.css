@@ -64,3 +64,68 @@ nav .dropdown-menu a {
 nav .dropdown-menu a:hover {
   background-color: #f1f1f1;
 }
+
+/* assets/css/custom.css */
+.content {
+  display: flex;
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px; /* General padding */
+  margin-left: 0px; /* Space for the sidebar */
+}
+
+.sidebar {
+  width: 200px;
+  position: relative;
+  top: auto; /* Adjust as needed */
+  left: auto; /* Start from the left edge */
+  bottom: auto;
+  background: #f7f7f7;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.toc ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  color: #FF0000;
+}
+
+.toc li {
+  margin-bottom: 0px; /* Add some spacing between links */
+}
+
+.toc a {
+  display: block; /* Ensure each link is on a new line */
+  text-decoration: none;
+  color: #000000;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 800px) {
+  .content {
+    flex-direction: column; /* Stack the sidebar and content vertically */
+  }
+
+  .main-content {
+    margin-left: 0; /* Remove left margin for smaller screens */
+    padding-left: 0;
+  }
+
+  .sidebar {
+    position: relative; /* Make the sidebar relative instead of fixed */
+    top: auto;
+    left: auto;
+    width: 100%; /* Full width for smaller screens */
+    margin-bottom: auto; /* Add some margin below the sidebar */
+  }
+}
