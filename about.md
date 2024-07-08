@@ -4,15 +4,30 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h2>Monarda basics</h2>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Distribution, basic characters, cultural significance
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Monarda is endemic to North America. It has been used traditionally in food and medicine, and it is commonly used in horticulture. 
 
+### Phylogeny
 
-[jekyll-organization]: https://github.com/jekyll
+#### Context among the mints
+
+#### Within-genus relationships
+
+Prather and Monfils 2002 addressed relationships within Monarda using ITS data. 
+
+#### Current taxonomy
+
+There are about 25-35 species of Monarda, but there is lots disagreement about what varieties reach species level. 
+
+### Important reading
+
+* Scora 1967  
+* McClintock and Epling 1942  
+* Turner 1994
+
+## Website information --
+
+Created by Patrick F. McKenzie using a modified version of Jekyll's "minima" theme, hosted using Github Pages. 
