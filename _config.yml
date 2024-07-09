@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monarda Taxonomy
+title: Monarda Taxonomy Online
 email: pmckenzie@fas.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a static website to host basic information about taxonomy and 
