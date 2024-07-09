@@ -9,9 +9,9 @@ permalink: /species/
 <ul>
   <li><a href="{{ '/species/monarda_fistulosa/monarda_fistulosa' | relative_url }}">Monarda fistulosa</a></li>
   <li><a href="{{ '/species/monarda_didyma/monarda_didyma' | relative_url }}">Monarda didyma</a></li>
-  <!-- Add more species links here as needed -->
   <li><a href="{{ '/species/monarda_clinopodia/monarda_clinopodia' | relative_url }}">Monarda clinopodia</a></li>
   <li><a href="{{ '/species/monarda_russeliana/monarda_russeliana' | relative_url }}">Monarda russeliana</a></li>
+  <li><a href="{{ '/species/monarda_stipitatoglandulosa/monarda_stipitatoglandulosa' | relative_url }}">Monarda stipitatoglandulosa</a></li>
   <li><a href="{{ '/species/monarda_brevis/monarda_brevis' | relative_url }}">Monarda brevis</a></li>
   <li><a href="{{ '/species/monarda_serotina/monarda_serotina' | relative_url }}">Monarda serotina</a></li>
   <li><a href="{{ '/species/monarda_austroappalachiana/monarda_austroappalachiana' | relative_url }}">Monarda austroappalachiana</a></li>
