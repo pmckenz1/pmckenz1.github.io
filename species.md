@@ -22,8 +22,8 @@ permalink: /species/
   <li><a href="{{ '/species/monarda_reedii/monarda_reedii' | relative_url }}">Monarda reedii</a></li>
   <li><a href="{{ '/species/monarda_bartlettii/monarda_bartlettii' | relative_url }}">Monarda bartlettii</a></li>
   <li><a href="{{ '/species/monarda_eplingiana/monarda_eplingiana' | relative_url }}">Monarda eplingiana</a></li>
-  <li><a href="{{ '/species/monarda_pringlei/monarda_pringlei | relative_url }}">Monarda pringlei</a></li>
   <li><a href="{{ '/species/monarda_malloryi/monarda_malloryi' | relative_url }}">Monarda malloryi</a></li>
+  <li><a href="{{ '/species/monarda_pringlei/monarda_pringlei' | relative_url }}">Monarda pringlei</a></li>
 </ul>
 
 # Monarda subg. Cheilyctis
