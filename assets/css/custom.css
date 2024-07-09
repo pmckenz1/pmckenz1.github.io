@@ -5,16 +5,19 @@
 
 .home .custom-content .featured-species {
   display: flex;
+  flex-wrap: wrap; /* Allow wrapping to multiple rows */
   justify-content: center;
   gap: 20px;
 }
 
 .home .custom-content .species {
   text-align: center;
+  flex: 1 1 200px; /* Allow the species div to grow and shrink */
+  max-width: 300px; /* Limit the max width */
 }
 
 .home .custom-content .species img {
-  max-width: 100%;
+  width: 100%; /* Make images take up the full width of their container */
   height: auto;
   border-radius: 8px;
 }
