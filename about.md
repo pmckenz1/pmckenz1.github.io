@@ -30,4 +30,6 @@ There are about 25-35 species of Monarda, but there is lots disagreement about w
 
 ## Website information
 
+Specimen images: Gray Herbarium of Harvard University
+
 Created by Patrick F. McKenzie using a modified version of Jekyll's "minima" theme, hosted using Github Pages. 

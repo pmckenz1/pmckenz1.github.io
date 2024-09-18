@@ -4,7 +4,18 @@ title: Species
 permalink: /species/
 ---
 
-# Monarda subg. Monarda
+# Imaged species:
+
+<ul>
+  <li><a href="{{ '/species/monarda_fistulosa/monarda_fistulosa' | relative_url }}">Monarda fistulosa</a></li>
+  <li><a href="{{ '/species/monarda_fistulosa_menthifolia/monarda_fistulosa_menthifolia' | relative_url }}">Monarda fistulosa subsp. menthifolia</a></li>
+  <li><a href="{{ '/species/monarda_didyma/monarda_didyma' | relative_url }}">Monarda didyma</a></li>
+  <li><a href="{{ '/species/monarda_clinopodia/monarda_clinopodia' | relative_url }}">Monarda clinopodia</a></li>
+</ul>
+
+# All species:
+
+## Monarda subg. Monarda
 
 <ul>
   <li><a href="{{ '/species/monarda_fistulosa/monarda_fistulosa' | relative_url }}">Monarda fistulosa</a></li>
@@ -26,7 +37,7 @@ permalink: /species/
   <li><a href="{{ '/species/monarda_pringlei/monarda_pringlei' | relative_url }}">Monarda pringlei</a></li>
 </ul>
 
-# Monarda subg. Cheilyctis
+## Monarda subg. Cheilyctis
 
 <ul>
   <li><a href="{{ '/species/monarda_citriodora/monarda_citriodora' | relative_url }}">Monarda citriodora</a></li>

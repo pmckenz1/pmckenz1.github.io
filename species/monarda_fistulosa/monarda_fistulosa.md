@@ -10,8 +10,40 @@ title: Monarda fistulosa
 Monarda fistulosa is a perennial herb...
 
 ## Images
-![Herbarium Specimen](path_to_image.jpg)
 
-## Varieties and Hybrids
-- [Monarda fistulosa var. brevis](path_to_variety_page)
-- [Monarda fistulosa x didyma](path_to_hybrid_page)
+## Goldman and Dirig 4023
+
+### Full specimen
+
+![Herbarium Specimen](/assets/images/specimens/fistulosa/goldman_dirig_4023/full_specimen.jpg)
+
+![Label](/assets/images/specimens/fistulosa/goldman_dirig_4023/label.jpg)
+
+![Label](/assets/images/specimens/fistulosa/goldman_dirig_4023/cell_inflorescences.jpg)
+
+### Corolla
+
+![Corolla](/assets/images/specimens/fistulosa/goldman_dirig_4023/corolla_calyx.jpg)
+
+![Corolla](/assets/images/specimens/fistulosa/goldman_dirig_4023/corolla_apex.jpg)
+
+### Calyx
+
+![Calyx](/assets/images/specimens/fistulosa/goldman_dirig_4023/calyx_full.jpg)
+
+![Calyx](/assets/images/specimens/fistulosa/goldman_dirig_4023/calyx_orifice.jpg)
+
+
+### Leaves / Petiole / Stem
+
+#### Petiole
+
+![Petiole](/assets/images/specimens/fistulosa/goldman_dirig_4023/petiole.jpg)
+
+#### Abaxial leaf surface
+
+![Abaxial](/assets/images/specimens/fistulosa/goldman_dirig_4023/abaxial.jpg)
+
+#### Adaxial leaf surface
+
+![Adaxial](/assets/images/specimens/fistulosa/goldman_dirig_4023/adaxial.jpg)
