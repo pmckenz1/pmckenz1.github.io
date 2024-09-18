@@ -15,12 +15,13 @@ Monarda didyma is a perennial herb...
 
 ### Full specimen
 
-![Herbarium Specimen](/assets/images/specimens/didyma/dosmann_widrlechner_696/full_specimen.jpg)
+![Herbarium Specimen](/assets/images/specimens/didyma/dosmann_widrlechner_696/full_specimen.JPG)
 
-![Label](/assets/images/specimens/didyma/dosmann_widrlechner_696/label.jpg)
+![Label](/assets/images/specimens/didyma/dosmann_widrlechner_696/label.JPG)
 
-![Label](/assets/images/specimens/didyma/dosmann_widrlechner_696/cell_macro1.jpg)
-![Label](/assets/images/specimens/didyma/dosmann_widrlechner_696/cell_macro2.jpg)
+![Label](/assets/images/specimens/didyma/dosmann_widrlechner_696/cell_macro1.JPG)
+
+![Label](/assets/images/specimens/didyma/dosmann_widrlechner_696/cell_macro2.JPG)
 
 ### Corolla
 

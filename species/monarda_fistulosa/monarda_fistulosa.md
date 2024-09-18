@@ -15,11 +15,11 @@ Monarda fistulosa is a perennial herb...
 
 ### Full specimen
 
-![Herbarium Specimen](/assets/images/specimens/fistulosa/goldman_dirig_4023/full_specimen.jpg)
+![Herbarium Specimen](/assets/images/specimens/fistulosa/goldman_dirig_4023/full_specimen.JPG)
 
-![Label](/assets/images/specimens/fistulosa/goldman_dirig_4023/label.jpg)
+![Label](/assets/images/specimens/fistulosa/goldman_dirig_4023/label.JPG)
 
-![Label](/assets/images/specimens/fistulosa/goldman_dirig_4023/cell_inflorescences.jpg)
+![Label](/assets/images/specimens/fistulosa/goldman_dirig_4023/cell_inflorescences.JPG)
 
 ### Corolla
 

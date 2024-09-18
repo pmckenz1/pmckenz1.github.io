@@ -56,11 +56,11 @@ Monarda clinopodia is a white-flowering Appalachian species.
 
 ### Full specimen
 
-![Herbarium Specimen](/assets/images/specimens/clinopodia/harper_3662/full_specimen.jpg)
+![Herbarium Specimen](/assets/images/specimens/clinopodia/harper_3662/full_specimen.JPG)
 
-![Label](/assets/images/specimens/clinopodia/harper_3662/label.jpg)
+![Label](/assets/images/specimens/clinopodia/harper_3662/label.JPG)
 
-![Label](/assets/images/specimens/clinopodia/harper_3662/cell_macro.jpg)
+![Label](/assets/images/specimens/clinopodia/harper_3662/cell_macro.JPG)
 
 ### Corolla
 

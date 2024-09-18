@@ -15,15 +15,15 @@ Monarda fistulosa subsp. menthifolia is found in the western United States.
 
 ### Full specimen
 
-![Herbarium Specimen](/assets/images/specimens/fistulosa_menthifolia/hill_14903/full_specimen.jpg)
+![Herbarium Specimen](/assets/images/specimens/fistulosa_menthifolia/hill_14903/full_specimen.JPG)
 
-![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/label.jpg)
+![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/label.JPG)
 
-![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/cell_macro1.jpg)
+![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/cell_macro1.JPG)
 
-![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/cell_macro2.jpg)
+![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/cell_macro2.JPG)
 
-![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/cell_macro3.jpg)
+![Label](/assets/images/specimens/fistulosa_menthifolia/hill_14903/cell_macro3.JPG)
 
 ### Corolla
 
