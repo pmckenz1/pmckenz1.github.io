@@ -11,6 +11,7 @@ permalink: /species/
   <li><a href="{{ '/species/monarda_fistulosa_menthifolia/monarda_fistulosa_menthifolia' | relative_url }}">Monarda fistulosa subsp. menthifolia</a></li>
   <li><a href="{{ '/species/monarda_didyma/monarda_didyma' | relative_url }}">Monarda didyma</a></li>
   <li><a href="{{ '/species/monarda_clinopodia/monarda_clinopodia' | relative_url }}">Monarda clinopodia</a></li>
+  <li><a href="{{ '/species/monarda_eplingiana/monarda_eplingiana' | relative_url }}">Monarda eplingiana</a></li>
 </ul>
 
 # All species:
@@ -32,7 +33,6 @@ permalink: /species/
   <li><a href="{{ '/species/monarda_maxmedleyi/monarda_maxmedleyi' | relative_url }}">Monarda maxmedleyi</a></li>
   <li><a href="{{ '/species/monarda_reedii/monarda_reedii' | relative_url }}">Monarda reedii</a></li>
   <li><a href="{{ '/species/monarda_bartlettii/monarda_bartlettii' | relative_url }}">Monarda bartlettii</a></li>
-  <li><a href="{{ '/species/monarda_eplingiana/monarda_eplingiana' | relative_url }}">Monarda eplingiana</a></li>
   <li><a href="{{ '/species/monarda_malloryi/monarda_malloryi' | relative_url }}">Monarda malloryi</a></li>
   <li><a href="{{ '/species/monarda_pringlei/monarda_pringlei' | relative_url }}">Monarda pringlei</a></li>
 </ul>

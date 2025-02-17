@@ -8,9 +8,9 @@ title: Monarda eplingiana
 ## Description
 A perennial herb in *Monarda* subg. *Monarda* endemic to the Sierra del Carmen in Cuahuila, MX.
 
-## Images
+## Images (preliminary)
 
-## Marsh 604
+## Marsh 604 (TYPE)
 
 ### Full specimen
 
